@@ -1,5 +1,5 @@
 // set the date we're counting down to
-var target_date = new Date("Feb 24 2016 11:30:00").getTime();
+var target_date = new Date("Jun 26 2017 23:55:00").getTime();
 
 $(document).ready(function() {
 

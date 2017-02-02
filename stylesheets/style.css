@@ -97,6 +97,7 @@ hr {
     font-weight: 100;
     display: block;
     margin-bottom: -21.33333px;
+    vertical-align: middle;
 }
 .days_number {
     font-weight: 300;

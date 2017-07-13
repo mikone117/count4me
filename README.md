@@ -11,6 +11,6 @@ Next June 27, 2017 is my deadline to present my degree final project :notebook: 
 
 ### How?
 
-[Here](https:mikone117.github.io) you can find this project repository and you can do whatever you want. :wink:.
+[Here](http://mikone117.github.io) you can find this project repository and you can do whatever you want. :wink:.
 
 **[Tip:]** Change the variable ``target_date`` in ``js/file`` file.
